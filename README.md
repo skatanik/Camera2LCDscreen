@@ -27,3 +27,5 @@ LCD clock: 33 MHz
 Camera resolution: 640x480@30fps
 
 LCD resolution: 800x480@60fps
+
+Base project: HPS_LED_HEX by Terasic
