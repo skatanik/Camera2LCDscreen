@@ -14,7 +14,7 @@ Number of frame buffers: 1
 Camera initialisation: using i2c module with FSM 
 
 
-My modules: i2c, camera_init, camera reader, lcd write, management.
+My modules: i2c, camera_init, camera reader, lcd writer, management.
 
 Ready modules: SDRAM controller by Altera, DCFIFO megafunctions
 
